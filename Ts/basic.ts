@@ -6,5 +6,6 @@ enum Role {
 }
 
 let userRoles: Role = Role.Admin;
+console.log(userRoles);
 
 export {};
